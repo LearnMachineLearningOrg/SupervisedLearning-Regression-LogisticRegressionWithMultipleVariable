@@ -1,4 +1,5 @@
 # SupervisedLearning-Regression-LogisticRegressionWithMultipleVariable
+
 This repository consists of implementation of logistic regression machine learning algorithm with multiple variables.
 
 Machine Learning concept being worked on:
@@ -15,13 +16,14 @@ Machine Learning concept being worked on:
 
 In this example we will perform logistic regression to classify whether a customer will purchase or will not purchase. For this we learn a model based on the data provided about the customers, given their age and estimated salary.
 
-Dataset being used: social_network_ads.csv
-Feature being used: Age, EstimatedSalary
-Label being predicted: Purchase
+        Dataset being used: social_network_ads.csv
+        Feature being used: Age, EstimatedSalary
+        Label being predicted: Purchase
+ 
 Python modules being used:
 
-os: This module provides a portable way of using operating system dependent functionality.
-pandas: Pandas provide high-performance data manipulation and analysis tool using its powerful data structures.
-numpy: NumPy is the fundamental package for scientific computing with Python.
-matplotlib: matplotlib is a plotting library for the Python programming language.
-sklearn: It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN
+1. os: This module provides a portable way of using operating system dependent functionality.
+2. pandas: Pandas provide high-performance data manipulation and analysis tool using its powerful data structures.
+3. numpy: NumPy is the fundamental package for scientific computing with Python.
+4. matplotlib: matplotlib is a plotting library for the Python programming language.
+5. sklearn: It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN
