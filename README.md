@@ -16,9 +16,9 @@ Machine Learning concept being worked on:
 
 In this example we will perform logistic regression to classify whether a customer will purchase or will not purchase. For this we learn a model based on the data provided about the customers, given their age and estimated salary.
 
-        Dataset being used: social_network_ads.csv
-        Feature being used: Age, EstimatedSalary
-        Label being predicted: Purchase
+Dataset being used: social_network_ads.csv
+Feature being used: Age, EstimatedSalary
+Label being predicted: Purchase
  
 Python modules being used:
 
